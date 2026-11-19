@@ -1,4 +1,10 @@
-# Token Radar — pre-token protocols ranked by implied value
+# token-radar-01
+
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/yogiekw/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/yogiekw/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
+Token Radar — pre-token protocols ranked by implied value.
 
 Entry for make.fun's **Build the best token launch radar** (token-radar-01).
 
@@ -60,3 +66,7 @@ write identical bytes.
   from the kit.
 - `dashboard/` — the static page (`index.html`, `app.css`, `app.js`).
 - `screenshots/` — board, detail and filtered views of the dashboard.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
